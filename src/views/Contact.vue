@@ -1,10 +1,10 @@
 <template>
-  <div class="about">
+  <div class="contact">
     <header-frontend />
 
     <v-content>
       <v-container>
-        <h1>Essa é a pagina de ajuda</h1>
+
       </v-container>
     </v-content>
 
@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import AppFooter from '../components/Frontend/Footer.vue'
+import AppFooter from '../components/Frontend/Footer'
 
 export default {
   components: {
